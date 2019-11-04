@@ -1,6 +1,6 @@
 var express = require("express");
 var app = express();
-var port = 80;
+var port = 3700;
 
 app.get("/", function(req, res){
     res.sendFile('views/index.html', {root: __dirname })
