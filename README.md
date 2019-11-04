@@ -9,6 +9,11 @@ git clone https://github.com/marvintv/calculator-web-app
 
 ```
 
+Go into your project repository: 
+
+```sh
+cd calculator-web-app
+```
 ## Start your server
 ```sh
 node.js start
