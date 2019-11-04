@@ -6,6 +6,8 @@ Technologies used:
 * JS
 * CSS3
 * Socket.io
+
+Screenshot:
 ![](https://i.imgur.com/mc8jSxK.png)
 
 ### Installing
