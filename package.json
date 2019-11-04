@@ -1,0 +1,13 @@
+{
+    "name": "calcRelay",
+    "version": "0.0.0",
+    "description": "Calc relay",
+    "dependencies": {
+        "socket.io": "latest",
+        "express": "latest"
+    },
+    "author": "Marvin",
+    "devDependencies": {
+        "nodemon": "^1.19.4"
+    }
+}
