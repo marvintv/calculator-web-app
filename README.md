@@ -1,5 +1,11 @@
 # calculator-web-app
-Technologies used: Node, express, JS, Socket.io
+Technologies used:
+* NodeJS,
+* Express
+* HTML
+* JS
+* CSS3
+* Socket.io
 ![](https://i.imgur.com/mc8jSxK.png)
 
 ### Installing
