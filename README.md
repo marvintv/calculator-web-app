@@ -11,7 +11,8 @@ Live demo of the web app: [use this link](https://calculator-app-marvin.herokuap
 
 
 
-Screenshot:
+#Screenshot:
+
 ![](https://i.imgur.com/mc8jSxK.png)
 
 ### Installing
