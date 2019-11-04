@@ -2,6 +2,12 @@
 
 ![](https://i.imgur.com/mc8jSxK.png)
 
+Clone this repo to your local repository:
+```sh
+git clone https://github.com/marvintv/calculator-web-app
+
+```
+
 Install node: 
 
 ```sh
