@@ -1,5 +1,9 @@
 {
     "name": "calcRelay",
+    "scripts": {
+      "test": "make test",
+      "start": "node index.js"
+    },
     "version": "0.0.0",
     "description": "Calc relay",
     "dependencies": {
