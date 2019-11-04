@@ -7,7 +7,7 @@ Technologies used:
 * CSS3
 * Socket.io
 
-Live demo of the web app [Use this link](https://calculator-app-marvin.herokuapp.com/).
+Live demo of the web app: [use this link](https://calculator-app-marvin.herokuapp.com/).
 
 Screenshot:
 ![](https://i.imgur.com/mc8jSxK.png)
