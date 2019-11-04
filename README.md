@@ -7,6 +7,8 @@ Technologies used:
 * CSS3
 * Socket.io
 
+* From the Nuxeo Marketplace: install [the Sample Nuxeo Package](https://connect.nuxeo.com/nuxeo/site/marketplace/package/nuxeo-sample).
+
 Screenshot:
 ![](https://i.imgur.com/mc8jSxK.png)
 
