@@ -27,7 +27,7 @@ Go into your project repository:
 ```sh
 cd calculator-web-app
 ```
-## Start your server
+### Start your server
 ```sh
 node.js start
 ```
