@@ -23,7 +23,7 @@ npm install nodeman -g
 ```sh
 node.js index
 ```
-## View your application through localhost:port through your web browser e.g.
+View your application through localhost:port through your web browser
 ```sh
 http://localhost:3700/
 ```
