@@ -9,19 +9,9 @@ git clone https://github.com/marvintv/calculator-web-app
 
 ```
 
-Install node: 
-
-```sh
-npm install
-```
-Make sure you have all packages installed on your machine: 
-
-```sh
-npm install nodeman -g
-```
 ## Start your server
 ```sh
-node.js index
+node.js start
 ```
 View your application through localhost:port through your web browser
 ```sh
